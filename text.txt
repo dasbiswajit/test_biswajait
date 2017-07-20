@@ -1,4 +1,1 @@
-This is print from text.txt
-jsdkahdlasjfhasdhdfs
-jksdahflsdjkf
-dssddsdsdsddsafsd
+hello from text.txt
